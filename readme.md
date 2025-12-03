@@ -34,7 +34,7 @@ A simple web-based typing speed test application built with HTML, CSS, and Vanil
 Clone or download the repository, then open `index.html` in your browser.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/danBagan/typing-speed-test.git
 cd typing-speed-test
 ```
 
