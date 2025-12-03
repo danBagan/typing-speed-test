@@ -4,7 +4,7 @@ A simple web-based typing speed test application built with HTML, CSS, and Vanil
 
 ## Screenshot
 
-[![Web App Screenshot]("https://github.com/user-attachments/assets/829769d5-d257-4d3b-9d31-dc9119b00710")]
+[![Web App Screenshot]("https://raw.github.com/danBagan/typing-speed-test/main/imgs/typing-test-screen.png")
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/94f023cb-9430-4775-94c9-ebb20805c91f/deploy-status)](https://app.netlify.com/projects/danbagan-speedtype/deploys)
 
