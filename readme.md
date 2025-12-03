@@ -34,12 +34,9 @@ A simple web-based typing speed test application built with HTML, CSS, and Vanil
 ## Getting Started
 
 Clone or download the repository, then open `index.html` in your browser.
+Or visit: https://danbagan-speedtype.netlify.app/
 
 ```bash
 git clone https://github.com/danBagan/typing-speed-test.git
 cd typing-speed-test
 ```
-
-## License
-
-MIT License
