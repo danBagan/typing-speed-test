@@ -24,6 +24,10 @@ A simple web-based typing speed test application built with HTML, CSS, and Vanil
 3. Begin typing the displayed words
 4. Results show your WPM and accuracy percentage
 
+---
+
+Or visit: https://danbagan-speedtype.netlify.app/
+
 ## Files
 
 - `index.html` - Main HTML structure
@@ -38,7 +42,6 @@ A simple web-based typing speed test application built with HTML, CSS, and Vanil
 ## Getting Started
 
 Clone or download the repository, then open `index.html` in your browser.
-Or visit: https://danbagan-speedtype.netlify.app/
 
 ```bash
 git clone https://github.com/danBagan/typing-speed-test.git
